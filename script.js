@@ -10,7 +10,7 @@ let fruta3 = document.getElementById('fruta-3');
 fruta3.innerHTML = frutas[2];
 
 let fruta4 = document.getElementById('fruta-4');
-let input = document.getElementById('banana');
+let input = document.getElementById('input');
 
 function adicionarFruta() {
     fruta4.innerHTML = input.value;
