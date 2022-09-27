@@ -6,3 +6,5 @@ Cole o comando aqui:
 ```jsx
     cole o código JS nesta área.
 ```
+let frutaInput =document.getElementById('banana');
+console.log(frutaInput.value);
